@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\bin\Debug\net8.0\ExceptFix.exe
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\bin\Debug\net8.0\ExceptFix.deps.json
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\bin\Debug\net8.0\ExceptFix.runtimeconfig.json
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\bin\Debug\net8.0\ExceptFix.dll
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\bin\Debug\net8.0\ExceptFix.pdb
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ExceptFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ExceptFix.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ExceptFix.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ExceptFix.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ExceptFix.dll
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\refint\ExceptFix.dll
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ExceptFix.pdb
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ExceptFix.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\ExceptFix\ExceptFix\obj\Debug\net8.0\ref\ExceptFix.dll
